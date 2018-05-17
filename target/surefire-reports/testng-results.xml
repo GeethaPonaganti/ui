@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63083" started-at="2018-05-17T17:39:14Z" finished-at="2018-05-17T17:40:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63083" started-at="2018-05-17T17:39:14Z" finished-at="2018-05-17T17:40:17Z">
+      <class name="com.opsmx.test.UITest">
+        <test-method status="PASS" signature="UIConn()[pri:0, instance:com.opsmx.test.UITest@1324409e]" name="UIConn" is-config="true" duration-ms="5549" started-at="2018-05-17T17:39:14Z" finished-at="2018-05-17T17:39:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UIConn -->
+        <test-method status="PASS" signature="UITesting(java.lang.String)[pri:0, instance:com.opsmx.test.UITest@1324409e]" name="UITesting" duration-ms="22623" started-at="2018-05-17T17:39:19Z" data-provider="newdata" finished-at="2018-05-17T17:39:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UITesting -->
+        <test-method status="PASS" signature="UITesting(java.lang.String)[pri:0, instance:com.opsmx.test.UITest@1324409e]" name="UITesting" duration-ms="16989" started-at="2018-05-17T17:39:42Z" data-provider="newdata" finished-at="2018-05-17T17:39:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UITesting -->
+        <test-method status="PASS" signature="UITesting(java.lang.String)[pri:0, instance:com.opsmx.test.UITest@1324409e]" name="UITesting" duration-ms="17633" started-at="2018-05-17T17:39:59Z" data-provider="newdata" finished-at="2018-05-17T17:40:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UITesting -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.opsmx.test.UITest@1324409e]" name="tearDown" is-config="true" duration-ms="247" started-at="2018-05-17T17:40:17Z" finished-at="2018-05-17T17:40:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.opsmx.test.UITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
